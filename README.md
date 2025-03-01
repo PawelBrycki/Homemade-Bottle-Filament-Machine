@@ -1,5 +1,4 @@
 
-![Alt text](https://raw.githubusercontent.com/PawelBrycki/Homemade-Bottle-Filament-Machine/refs/heads/main/photos/imag1.jpg)
 Made by **Paweł Brycki**.
 
 
@@ -22,4 +21,13 @@ Some day my dad was watching YouTube and find the film about homemade filaments 
 ## 3D Printed Project
 
 Author: https://www.youtube.com/@zneipas2917/featured
+
 3D Files: https://www.thingiverse.com/thing:4963286
+
+
+
+
+## Photos of project
+
+![Alt text](https://raw.githubusercontent.com/PawelBrycki/Homemade-Bottle-Filament-Machine/refs/heads/main/photos/imag1.jpg)
+![Alt text](https://raw.githubusercontent.com/PawelBrycki/Homemade-Bottle-Filament-Machine/refs/heads/main/photos/imag2.jpg)
