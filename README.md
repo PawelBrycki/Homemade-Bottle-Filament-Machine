@@ -25,6 +25,13 @@ Author: https://www.youtube.com/@zneipas2917/featured
 3D Files: https://www.thingiverse.com/thing:4963286
 
 
+## Youtube
+
+The video of presentation the working machine.
+
+
+Link: https://www.youtube.com/watch?v=20nc4QPrXdI
+
 
 
 ## Photos of project
