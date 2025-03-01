@@ -18,3 +18,8 @@ Some day my dad was watching YouTube and find the film about homemade filaments 
    - Some switches
    - Digital Termoshat Controller REX-C100  (https://tiny.pl/q4h32w16)
    - Heater 220V                (https://tiny.pl/t15rqwsk)
+
+## 3D Printed Project
+
+Author: https://www.youtube.com/@zneipas2917/featured
+3D Files: https://www.thingiverse.com/thing:4963286
